@@ -1,0 +1,6 @@
+Line 19: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control supGrid was not a loaded control class.
+Line 25: The property name _ExtentX in supGrid is invalid.
+Line 26: The property name _ExtentY in supGrid is invalid.
+Line 27: The property name _Version in supGrid is invalid.
+Line 37: The property name _NumberOfBands in supGrid is invalid.
+Line 38: The property name _Band(0).Cols in supGrid is invalid.
